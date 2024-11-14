@@ -1,3 +1,3 @@
 # CypherHub
 
-Official script hub by xCypher
+v1.0
